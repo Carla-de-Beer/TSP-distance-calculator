@@ -1,4 +1,4 @@
-#Travelling Salesman Distance Calculator
+# Travelling Salesman Distance Calculator
 
 Genetic algorithm to find an optimised solution to the Travelling Salesman Problem.
 The program dynamically reads in city data from a file and calculates the shortest distance it can find, linking all cities.
