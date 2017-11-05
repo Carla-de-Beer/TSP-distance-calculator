@@ -10,8 +10,8 @@ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.9167&rep=rep1&type=p
 http://stackoverflow.com/questions/27928/calculate-distance-between-two-latitude-longitude-points-haversine-formula
 * Map from MapBox; https://www.mapbox.com/api-documentation/#retrieve-a-sprite-image-or-json
 
-#### Links: ####
-* To view this project webpage, navigate to: https://carla-de-beer.github.io/TSP-Distance-Calculator/
+#### Lintoks: ####
+* The website can be viewed via the following URL: https://carla-de-beer.github.io/TSP-Distance-Calculator/
 * View the project video here: https://vimeo.com/206750609
 
 </br>
