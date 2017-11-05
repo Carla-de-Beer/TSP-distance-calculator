@@ -11,3 +11,8 @@ http://stackoverflow.com/questions/27928/calculate-distance-between-two-latitude
 * Map from MapBox; https://www.mapbox.com/api-documentation/#retrieve-a-sprite-image-or-json
 
 To view this project, navigate to: https://carla-de-beer.github.io/TSP-Distance-Calculator/
+
+</br>
+<p align="center">
+  <img src="gif/TSP Distance Calculator.gif"/>
+</p>
