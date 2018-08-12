@@ -1,5 +1,5 @@
 # Travelling Salesman Distance Calculator
-[![GitHub issues](https://img.shields.io/github/issues/Carla-de-Beer/TensorFlow-js.svg?style=flat-square)](https://github.com/Carla-de-Beer/TSP-Distance-Calculator/issues)
+[![GitHub issues](https://img.shields.io/github/issues/Carla-de-Beer/TSP-Distance-Calculator.svg?style=flat-square)](https://github.com/Carla-de-Beer/TSP-Distance-Calculator/issues)
 
 This project demonstrates the use of a genetic algorithm to find an optimised solution to the Travelling Salesman Problem. The program dynamically reads in city data from a file and calculates the shortest distance it can find, linking all cities. The actual physical distance on the route, calculated as the [Haversine](https://en.wikipedia.org/wiki/Haversine_formula) distance, is also shown. Specifiable genetic algorithm parameters include the crossover rate, mutation rate, population size, max. no. iterations and elitism generation gap.
 
