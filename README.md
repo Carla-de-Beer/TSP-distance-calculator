@@ -4,8 +4,8 @@
 This project demonstrates the use of a genetic algorithm to find an optimised solution to the Travelling Salesman Problem. The program dynamically reads in city data from a file and calculates the shortest distance it can find, linking all cities. The actual physical distance on the route, calculated as the [Haversine](https://en.wikipedia.org/wiki/Haversine_formula) distance, is also shown. Specifiable genetic algorithm parameters include the crossover rate, mutation rate, population size, max. no. iterations and elitism generation gap.
 
 ## Development Notes
-
-Linting is provided by ESLint. To run the linter, install npm via `npm install`, followed by `npm install eslint --save-dev`. To run the lint tests, type in the command `npm run lint`.
+* Built with P5.js.
+* Linting is provided by ESLint. To run the linter, install npm via `npm install`, followed by `npm install eslint --save-dev`. To run the lint tests, type in the command `npm run lint`.
 
 ## Resources
 * City data obtained from: https://gist.github.com/Miserlou/c5cd8364bf9b2420bb29
