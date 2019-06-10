@@ -30,5 +30,8 @@
   "devDependencies": {
     "eslint": "^5.3.0",
     "eslint-config-p5js": "^1.0.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
   }
 }
