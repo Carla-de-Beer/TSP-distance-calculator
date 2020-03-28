@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/Carla-de-Beer/TSP-Distance-Calculator#readme",
   "devDependencies": {
-    "eslint": "^5.3.0",
+    "eslint": "^5.16.0",
     "eslint-config-p5js": "^1.0.1"
   },
   "dependencies": {
